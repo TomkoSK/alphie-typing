@@ -6,6 +6,7 @@ Made for doing homework on https://app.alphie.app, for those parts where you hav
 make it search for letters from top to bottom  
 maybe make characters like á ý č etc work  
 make capital letters work  
+make screen state refresh more often  
 
 ## DEPENDENCIES:
 PIL 9.0+  
